@@ -2,4 +2,5 @@
 this aplication was build with react native
 and also you need to install depedencies for navigation
 you can run "npm install react-navigation"
-or using yarn "yar add react-native"
+or "npm install --save react-navigation"
+and also you can using yarn "yarn add react-native"
