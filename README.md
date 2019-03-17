@@ -1,1 +1,1 @@
-# aplikasi-Kasir-Sederhana
+# aplikasi-Kasir-Sederhana-React-native
